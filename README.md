@@ -5,21 +5,22 @@
 </p>
 
 <p align="center">
+  <a href="https://simran08-ai.github.io/"><img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/simran-chauhan-197316161/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:schauha7@depaul.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Chicago,_IL-2dd4bf?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Chicago,_IL-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
 ---
 
 ### 👩‍💻 About me
 
-I work at the intersection of **healthcare and data** — building machine learning and NLP pipelines for biomedical problems, from cytokine-based disease classification to clinical-text analysis and bioinformatics. I have a clinical background in dentistry (BDS) that shaped my move into health data, and I care about work where messy real-world health data meets solid, reproducible analysis.
+I work at the intersection of **healthcare and data** — building machine learning and NLP pipelines for biomedical problems, from cytokine-based disease classification to clinical-text analysis, medical imaging, and bioinformatics. I have a clinical background in dentistry (BDS) that shaped my move into health data, and I care about work where messy real-world health data meets solid, reproducible analysis.
 
 - 🎓 MS in Health Informatics, DePaul University
 - 🔬 Graduate Research Assistant — ML &amp; NLP on biomedical datasets
 - 🦷 Bachelor of Dental Surgery (BDS) — clinical background
-- 🌱 Currently working across ML, NLP, and bioinformatics research
+- 🌱 Working across ML, NLP, bioinformatics, and medical imaging
 
 ---
 
@@ -31,6 +32,7 @@ I work at the intersection of **healthcare and data** — building machine learn
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
@@ -44,6 +46,8 @@ I work at the intersection of **healthcare and data** — building machine learn
 |---------|-----------|------|
 | **[KSHV-G4BP-discovery](https://github.com/Simran08-ai/KSHV-G4BP-discovery)** | ANKH protein-embedding pipeline to find novel nucleolin-like RG4-binding proteins from QuadRAtlas data | `Python` · bioinformatics |
 | **[mecfs-steiger-classification](https://github.com/Simran08-ai/mecfs-steiger-classification)** | ML classification of ME/CFS using Steiger feature engineering, LOOCV across datasets | `R` · ML |
+| **[mecfs-cytokine-networks](https://github.com/Simran08-ai/mecfs-cytokine-networks)** | Cytokine correlation network analysis for ME/CFS | `R` · networks |
+| **[oral-lesion-cross-site-generalization](https://github.com/Simran08-ai/oral-lesion-cross-site-generalization)** | Cross-site transfer for oral lesion image classification | `Jupyter` · imaging |
 | **[CareNest](https://github.com/Simran08-ai/carenest)** | Caregiver-first smart-home concept for dementia families (CASAS + BRFSS) — [live site](https://simran08-ai.github.io/carenest/) | digital health |
 
 ---
